@@ -1,6 +1,6 @@
 # calculator
 
-A simple and scientific calculator
+A scientific calculator
 
 ## Getting Started
 
